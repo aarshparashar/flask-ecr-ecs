@@ -68,7 +68,7 @@
     - Go to GitHub repo -> Settings -> New repository secrets, and save Access and Secret Keys.
 
 13. **AWS ECR Setup**
-    - In AWS ECR, create a private repository.
+    - In AWS ECR, create a private repository with vulnerability scanning enabled for image scans.
 
 14. **Configure ECR Repository in GitHub Actions**
     - Mention the ECR repository name in `main.yml` for push by GitHub Actions.
