@@ -89,4 +89,4 @@
     - Obtain the DNS link of the load balancer and check the "Hello World!" output on your browser.
 
 20. **Set up SNS notification for email for image push notifications**
-    - (WIP)
+    - There's an email from GitHub directly whenever there's a failure in the pipeline. SNS email notification for a new image upload in the ECR repository is a work in progress (WIP).
