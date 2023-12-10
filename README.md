@@ -87,3 +87,6 @@
 
 19. **Check Deployment**
     - Obtain the DNS link of the load balancer and check the "Hello World!" output on your browser.
+
+20. **Set up SNS notification for email for image push notifications**
+    - (WIP)
