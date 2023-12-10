@@ -77,7 +77,7 @@
     - Test and debug the GitHub Actions pipeline by setting up the GitHub repository, committing, and pushing code to it.
 
 16. **AWS ECS Service Setup**
-    - In AWS ECS, create a service with rolling release update enabled, using the newly created image from the ECR private repository with the "latest" tag using its URI.
+    - In AWS ECS, create a service with blue/green deployment, using the newly created image from the ECR private repository with the "latest" tag using its URI.
 
 17. **Application Load Balancer Integration**
     - When setting up the ECS service, attach an Application Load Balancer to it.
