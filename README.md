@@ -51,7 +51,7 @@
 				"ecr:UploadLayerPart"
 			],
 			"Resource": [
-				"arn:aws:ecr:ap-south-1:554763319095:repository/mapup.ai"
+				"arn:aws:ecr:ap-south-1:554763319095:repository/ecr-repo"
 			]
 		}
 	]
