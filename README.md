@@ -1,4 +1,4 @@
-# mapup.ai assessment steps and instructions
+# Steps and instructions
 
 1. **Initialize a GitHub Repository**
    - Start by creating an empty GitHub repository.
